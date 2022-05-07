@@ -14,7 +14,7 @@ title: Background
 
 
 <figure>
-     <img src="https://raw.githubusercontent.com/janeluke/Final_Project/main/images/Remittance%20flow.png", align="center" alt="Remittance" style="width:90%">
+     <img src="https://raw.githubusercontent.com/janeluke/Final-Project/main/images/Remittance%20flow.png", align="center" alt="Remittance" style="width:90%">
      <figcaption align="center"><b>Figure 1.  Development finance flows to LMICs, 1990-2022 est.</b></figcaption>
 </figure> 
 
