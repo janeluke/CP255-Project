@@ -2,17 +2,36 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/UC_Berkeley_Seal_80px.jpg">
 
 
-# Project Name
+# <p align="center"> Remittances of Goods and Services as a Sustainability Finance Strategy: Enabling the Diaspora to Support Friends and Family in Developing Countries in Achieving the Sustainable Development Goals. </p>
 
-## The Team
+## By Jane Luke and Bukola Anifowoshe
 
-**Project Lead/s:**
 
-**Data Science Lead/s:** 
+<p align="justify">A look into the inflow and outflow of remittances to understand the global remittance landscape in order to highlight the ideal geographies for remittance-based aid development initiatives.
+  
+  The content of the body element is displayed in the tab on the left window. They include:</p>
 
-**DSSG Fellows:** 
+## Backgound
+## Research Questions
+## Methodology
+## Key Findings
+## Codes
 
-# Abstract or executive summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
