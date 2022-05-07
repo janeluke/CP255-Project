@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methods
+title: Research Questions and Methodology
 ---
 
 **Data**
