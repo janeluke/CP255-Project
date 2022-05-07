@@ -21,4 +21,4 @@ version:          1.0
 github:
   repo:           https://github.com/janeluke/CP255_Project/
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
