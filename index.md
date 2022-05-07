@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/UC_Berkeley_Seal_80px.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/UC_Berkeley_Seal_80px.png">
 
 
 # <p align="center"> Remittances of Goods and Services as a Sustainability Finance Strategy: Enabling the Diaspora to Support Friends and Family in Developing Countries in Achieving the Sustainable Development Goals. </p>
