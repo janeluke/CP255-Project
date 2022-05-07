@@ -5,17 +5,17 @@ permalink:        pretty
 
 
 # Setup
-title:            DSSG Project Name
+title:            Analysis of Global and Regional Remittance Flow
 tagline:          ''
-description:      'A 2021 Data Science for Social Good summer fellowship project at the University of Washington' 
-url:              "https://uwescience.github.io"
-baseurl:          "/DSSG-website-template"
+description:      'A 2022 Project for CYPLAN 255 at the University of California, Berkeley'
+url:              "https://janeluke.github.io"
+baseurl:          "/CP255_Project/"
 
 
 paginate:         5
 
 # Custom vars
-version:          0.0.0
+version:          1.0
 
 github:
-  repo:           https://github.com/uwescience/DSSG-website-template/
+  repo:           https://github.com/janeluke/CP255_Project/
