@@ -12,6 +12,7 @@ description:      'A 2022 Project for CYPLAN 255 at the University of California
 url:              "https://janeluke.github.io"
 baseurl:          "/CP255_Project/"
 
+theme: jekyll-theme-slate
 
 paginate:         5
 
@@ -21,4 +22,3 @@ version:          1.0
 github:
   repo:           https://github.com/janeluke/CP255_Project/
 
-theme: jekyll-theme-slate
